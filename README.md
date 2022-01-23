@@ -1,6 +1,8 @@
 # study-guide
 
 
+### 스터디 기록 방식
+
 - `git clone [레포지토리 주소]` 로 자신의 PC로 복제한다.
 
 - `git branch` 현재 브랜치를 확인한다.
